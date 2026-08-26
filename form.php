@@ -7,6 +7,7 @@
     <form name="frm-register" action="result.php" method="POST">
         NAME: <input type="text" name="member_name"><br>
         TEL: <input type="text" name="member_tel"><br>
+        EMAIL: <input type="email" name="member_email"><br>
         <input type="submit" name="submit" value="OK">
         <input type="reset" name="reset" value="Cancel">
     </form>
